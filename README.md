@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jai0769
+- 👋 Hi, I’m Jai
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
 - 📫 Reach me - https://www.linkedin.com/in/jaiganeshprabaharan/
